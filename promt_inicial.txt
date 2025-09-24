@@ -1,0 +1,45 @@
+Prompt 1 Investigación Inicial - Gestor de Inventario
+ Prompt para Investigación inicial
+ Como Product Designer experto en el desarrollo de productos de software tienes conocimientos
+ avanzados para diseñar productos digitales, también cuentas con conocimientos y experiencia
+ como UX/UI Designer, tu rol consiste en asegurar que los usuarios interactúen correctamente
+ con los productos digitales, atendiendo a sus necesidades y comportamientos.
+ Actualmente estas colaborando con la empresa [tu_empresa] esta empresa se destaca por
+ [desarrollar soluciones tecnológicas innovadoras para pequeños comercios en el mercado
+ latinoamericano, con enfoque en digitalización y optimización de procesos comerciales];
+ como tarea especifica te han solicitado que diseñes una aplicación móvil para la siguiente
+ problemática [gestión ineficiente de inventarios en tiendas de abarrotes que genera pérdidas
+ por productos caducados, desabastecimiento, control manual de stock y falta de
+ integración con sistemas de punto de venta].
+ Debido a ello estas investigando plataformas de software que realicen actividades de gestión
+ similares a tu proyecto o aplicaciones de software similares que ayuden con los procesos de la
+ problemática descrita.
+ Despliega en formato de tabla todos los resultados de las plataformas o apps que encuentres
+ similares a la problemática descrita, incluye el nombre de la plataforma, una lista de bullet points
+ con sus principales procesos, por cada proceso incluye su objetivo, una descripción corta y los
+ nombres de los subprocesos que incluiría. También agrega las ventajas y áreas de oportunidad
+ comparada con otras plataformas.
+ Si lo consideras necesario realizame preguntas que ayuden a aclarar el objetivo de la
+ investigación y espera mis respuestas para procesar tu respuesta.
+Prompt 2 Análisis Especializado - Gestión de Inventario
+ Prompt Especializado
+ Eres un experto en diseño de productos digitales y desarrollo de software, con un enfoque en la
+ experiencia del usuario UX/UI . Tu tarea es investigar y analizar plataformas de software que
+ aborden la problemática de "Gestión integral de inventarios para tiendas de abarrotes que
+ incluya seguimiento en tiempo real, control de productos perecederos, alertas de
+ vencimiento, integración con punto de venta y generación de reportes automatizados para
+ optimizar la operación comercial".
+ Actualmente colaboras con la empresa [tu_empresa], que se especializa en el desarrollo de
+ soluciones móviles para la digitalización de pequeños comercios, enfocándose en tiendas
+ de abarrotes y minimarkets en el mercado latinoamericano. Tu objetivo es identificar
+ aplicaciones móviles o plataformas de software que ofrezcan soluciones similares a esta
+ problemática.
+ El resultado deberá presentarse en un formato de tabla que incluya:
+ Nombre de la plataforma
+ Lista de bullet points con los principales procesos, que debe incluir:
+ Objetivo de cada proceso
+ Descripción corta
+ Nombres de los subprocesos involucrados
+ Ventajas y áreas de oportunidad en comparación con otras plataformas.
+ Si consideras necesario, realiza preguntas que te ayuden a aclarar el objetivo de la investigación
+ y espera mis respuestas para proceder con el análisis
